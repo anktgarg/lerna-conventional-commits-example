@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/anktgarg/lerna-conventional-commits-example/compare/@my-scope/alpha@1.2.0...@my-scope/alpha@1.3.0) (2020-10-27)
+
+
+### Features
+
+* hgf ([387a19f](https://github.com/anktgarg/lerna-conventional-commits-example/commit/387a19f7c9980ded03b3c289cc27f0175ff3a28a))
+
+
+
+
+
 # [1.2.0](https://github.com/anktgarg/lerna-conventional-commits-example/compare/@my-scope/alpha@1.1.1...@my-scope/alpha@1.2.0) (2020-10-26)
 
 
